@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input, button {
+  margin: 10px 0;
+}
+
+.box-container {
+  width: 100%;
+  max-width: 600px;
+}
+
+.box {
+  background-color: rgba(0, 0, 255, 0.1);
+}
